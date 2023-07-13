@@ -1,0 +1,21 @@
+main{
+    display:flex;
+    height: 100%;
+}
+
+.left-section{
+    background-color: #2A2D34;
+    width: 15%;
+    color: #667179;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.right-section{
+    background-color: #222328;
+    width: 85%;
+}
+.left-section,.right-section{
+    padding: 1rem;
+}
