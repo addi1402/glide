@@ -13,6 +13,7 @@ export default function Main(){
                         <li>Trash</li>
                     </ul>
                 </nav>
+                <small>Designed & Developed by Aditya</small>
            </div>
            <div className="right-section">
                 <p>Hello</p>
